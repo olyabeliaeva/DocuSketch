@@ -1,2 +1,2 @@
 # DocuSketch
-Test task from DocuSketch for intership.
+Test task from DocuSketch for internship.
