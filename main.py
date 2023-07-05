@@ -9,7 +9,7 @@ if __name__ == '__main__':
             'index': ['min', 'floor_min', 'ceiling_min']
         },
         {
-            'index': ['max', 'floor_max', 'ceiling_min']
+            'index': ['max', 'floor_max', 'ceiling_max']
         },
         {
             'index': ['mean', 'floor_mean', 'ceiling_mean']
